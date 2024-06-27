@@ -1,4 +1,4 @@
-num=int("Enter a number")
+num=90
 if num==10:
    print("Number is 10")
 elif num==100:
